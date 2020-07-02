@@ -5,7 +5,7 @@
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/Languages-3-blueviolet">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-blueviolet">
+ 
   <a aria-label="Completo" href="https://rocketseat.com.br/week-10/aulas#4">
     <img src="https://img.shields.io/badge/Project by-Rocketseat-blueviolet?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
@@ -64,9 +64,6 @@ ATENÇÃO: Se não tiver o Expo instalado, digite o trecho: yarn global add inst
 - Adicione uma :star: estrela nesse projeto
 ---------
 
-## 📜 Licença
-
-[MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
 
 ![footer](https://user-images.githubusercontent.com/67604477/86399176-2f605e00-bc7d-11ea-9f0d-523196f201d5.jpg)
 
